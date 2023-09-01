@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    border: 0;
+}
+h1{
+    margin-left: 11%;
+    margin-top: 1%;
+}
+
+body {
+    background-color: beige;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.box-1 {
+    background-color: brown;
+    color: darkkhaki;
+    border: 6px black solid;
+    border-bottom: 10px darksalmon ridge;
+
+    
+    margin: 10px;
+    border-top: 20px darksalmon ridge;
+    border-width: 15px;
+    padding-left: 010px;
+    padding-top: 1%;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+
+}
